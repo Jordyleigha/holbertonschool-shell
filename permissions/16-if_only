@@ -1,2 +1,2 @@
 #!/bin/bash
-stat -c '%u' hello = guillaume  && chown vincent hello 
+stat -c '%u' hello = guillaume chown vincent hello 
