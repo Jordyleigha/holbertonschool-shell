@@ -1,2 +1,2 @@
 #!/bin/bash
-chown hello vincent -user guillaume
+stat -c '%u' hello = guillaume  && chown vincent hello 
