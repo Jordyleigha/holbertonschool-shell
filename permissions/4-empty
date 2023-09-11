@@ -1,2 +1,2 @@
 #!/bin/bash
-emptyfile echo . >hello
+touch hello
