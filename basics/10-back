@@ -1,2 +1,6 @@
 #!/bin/bash
-lcd holbertonschool-shell
+pwd /holbertonschool-shell/basics
+cd /var
+pwd /var
+source ./10-back
+pwd /holbertonschool-shell/basics
