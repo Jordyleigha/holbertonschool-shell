@@ -1,1 +1,1 @@
-shell I/O redirections and filters
+ shell i/o permissions
