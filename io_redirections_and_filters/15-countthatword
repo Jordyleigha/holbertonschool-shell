@@ -1,2 +1,2 @@
 #!/bin/bash
-find -mindepth 1 -type f | egrep 'bin' /etc/psswd
+grep -c 'bin' /etc/psswd
