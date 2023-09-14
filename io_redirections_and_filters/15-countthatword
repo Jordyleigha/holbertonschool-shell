@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep --count 'bin'  /etc/psswd
+egrep -c 'bin'  /etc/psswd
