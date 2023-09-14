@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep 'root' iacta >> tail -3
+grep -B 3 'root'  /etc/psswd
