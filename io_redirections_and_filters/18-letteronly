@@ -1,0 +1,2 @@
+#!/bin/bash
+egrep -o '.apal'  /etc/ssh/sshd_config
